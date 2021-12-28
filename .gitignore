@@ -23,3 +23,9 @@
 hs_err_pid*
 /Age/.idea
 /Age/*.iml
+/First programm/.idea/*.xml
+/First programm/*.iml
+*.idea
+*.iml
+*.html
+
